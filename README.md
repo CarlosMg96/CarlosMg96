@@ -25,29 +25,21 @@
 
 ### 🧩 Proyectos destacados:
 
-🔗 [**Sistema de Gestión de Inventario**](https://github.com/CarlosMg96/inventario-app)  
-Aplicación web fullstack construida con Vue 3, Laravel y PostgreSQL para administrar inventarios en tiempo real.
+🔗 [**Sistema de Gestión de Inventario**](https://github.com/CarlosMg96/slm.git)  
+Aplicación web fullstack construida Laravel y Mysql para administrar inventarios en tiempo real.
 
-🔗 [**API de Autenticación JWT**](https://github.com/CarlosMg96/auth-api)  
-API RESTful con Node.js y Express para autenticación con JWT, ideal para microservicios.
+🔗 [**Sistema con Autenticación JWT**](https://github.com/CarlosMg96/CobreDelMayo.git)  
+Sistema dinamico que tiene autenticación con jwt, control de roles y front 
 
-🔗 [**App Móvil de Tareas**](https://github.com/CarlosMg96/tareas-mobile)  
-Aplicación móvil hecha en Flutter con integración a backend en Laravel y notificaciones push.
+🔗 [**App Móvil de Reservaciones de Espacios**](https://github.com/CarlosMg96/villa_tenis.git)  
+Aplicación móvil hecha en React Native con Expo y Firebase.
 
-🔗 [**Clon de Trello (mini versión)**](https://github.com/CarlosMg96/mini-trello-clone)  
-SPA con Vue 3 y drag&drop para gestión de tareas estilo kanban.
+🔗 [**App Móvil y Web clon de Didi, Uber, Rappi (mini versión) (Colaborador)**](https://github.com/12Edwin/QuickFavor.git)  
+SPA con Vue 3 y Flutter para la parte móvil con integración del backend con Node y notificaciones push.
 
----
+🔗 [**Landings (DevOps)**](https://2024.ia.grupoherdez.com.mx/)  
+Landings de Herdez, integración con Docker, Seguridad en los headers,
 
-### 🛠️ APIs creadas
-
-| API | Descripción | Link |
-|-----|-------------|------|
-| API Productos | CRUD completo + filtros con Laravel | [Ver repo](https://github.com/CarlosMg96/api-productos) |
-| API Clima | Consulta con OpenWeather + logs en MongoDB | [Ver repo](https://github.com/CarlosMg96/api-clima) |
-| API Auth | Login con JWT, refresh tokens y middlewares | [Ver repo](https://github.com/CarlosMg96/auth-api) |
-
----
 
 ### 📊 Estadísticas
 
@@ -58,9 +50,8 @@ SPA con Vue 3 y drag&drop para gestión de tareas estilo kanban.
 
 ### 📫 Conectemos:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/CarlosMg96) *(actualiza si tienes)*
-- 🌐 [Portafolio](https://CarlosMg96.dev) *(o GitHub Pages)*
-- 📧 Email: carlosmg96@gmail.com *(modifica si es distinto)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/CarlosMg96)
+- 📧 Email: rguezcarlosmg96@gmail.com
 
 ---
 
