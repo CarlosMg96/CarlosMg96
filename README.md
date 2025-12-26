@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 Tecnologías y Stacks que manejo:
+### Tecnologías y Stacks que manejo:
 
 **Frontend**
 - Vue.js (v2 y v3), React, JavaScript Vanilla, jQuery
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧩 Proyectos destacados:
+### Proyectos destacados:
 
 🔗 [**Sistema de Gestión de Inventario**](https://github.com/CarlosMg96/slm.git)  
 Aplicación web fullstack construida Laravel y Mysql para administrar inventarios en tiempo real.
@@ -41,19 +41,19 @@ SPA con Vue 3 y Flutter para la parte móvil con integración del backend con No
 Landings de Herdez, integración con Docker, Seguridad en los headers,
 
 
-### 📊 Estadísticas
+### Estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosMg96&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMg96&layout=compact&theme=radical)
 
 ---
 
-### 📫 Conectemos:
+### Conectemos:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/CarlosMg96)
 - 📧 Email: rguezcarlosmg96@gmail.com
 
 ---
 
-> 💡 *"Siempre enfocado en aprender, mejorar y construir soluciones reales que marquen la diferencia."*
+ *"Tú te imaginas el futuro, y yo solo te ayudo a programarlo"*
 
