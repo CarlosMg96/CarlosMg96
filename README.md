@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Carlos Manuel Glez. Rodriguez (CarlosMg96)</h1>
+<h1 align="center">Hola! Soy Carlos Manuel Glez. Rodriguez (CarlosMg96)</h1>
 <h3 align="center">Desarrollador Fullstack con experiencia en desarrollo web, mobile, APIs y DevOps</h3>
 
 ---
