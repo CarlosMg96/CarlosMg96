@@ -23,20 +23,20 @@
 
 ### Proyectos destacados:
 
-🔗 [**Sistema de Gestión de Inventario**](https://github.com/CarlosMg96/slm.git)  
-Aplicación web fullstack construida Laravel y Mysql para administrar inventarios en tiempo real.
+🔗 [**Sistema de Gestión de Inventario (Sobrelamesa)**](https://github.com/CarlosMg96/slm.git)  
+*Aplicación Fullstack para administración de inventarios y eventos en tiempo real.* `Laravel` `MySQL` `Real-time`
+
+🔗 [**Quick Favor - Delivery Accesible (Colaborador)**](https://github.com/12Edwin/QuickFavor.git)  
+*PWA y App móvil enfocada en accesibilidad para personas con discapacidad.* `Vue 3` `Flutter` `Node.js` `Push Notifications`
+
+🔗 [**Landings Corporativas (DevOps)**](https://2024.ia.grupoherdez.com.mx/)  
+*Despliegue y seguridad de infraestructura para Grupo Herdez.* `Docker` `Security Headers` `CI/CD`
 
 🔗 [**Sistema con Autenticación JWT**](https://github.com/CarlosMg96/CobreDelMayo.git)  
-Sistema dinamico que tiene autenticación con jwt, control de roles y front 
+*Arquitectura segura con control de roles y autenticación robusta.* `JWT` `Backend Security` `Role Management`
 
-🔗 [**App Móvil de Reservaciones de Espacios**](https://github.com/CarlosMg96/villa_tenis.git)  
-Aplicación móvil hecha en React Native con Expo y Firebase.
-
-🔗 [**App Móvil y Web clon de Didi, Uber, Rappi (mini versión) (Colaborador)**](https://github.com/12Edwin/QuickFavor.git)  
-SPA con Vue 3 y Flutter para la parte móvil con integración del backend con Node y notificaciones push.
-
-🔗 [**Landings (DevOps)**](https://2024.ia.grupoherdez.com.mx/)  
-Landings de Herdez, integración con Docker, Seguridad en los headers,
+🔗 [**App Móvil de Reservaciones**](https://github.com/CarlosMg96/villa_tenis.git)  
+*Gestión de espacios deportivos con integración en tiempo real.* `React Native` `Firebase` `Expo`
 
 
 ### Estadísticas
