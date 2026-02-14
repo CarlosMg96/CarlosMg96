@@ -49,7 +49,7 @@
 ### Conectemos:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/CarlosMg96)
-- 📧 Email: rguezcarlosmg96@gmail.com
+- 📧 Email: rguezcarlosmg96@outlook.com
 
 ---
 
